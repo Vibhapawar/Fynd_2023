@@ -11,8 +11,11 @@
   "dependencies": {
     "alert": "^5.1.4",
     "closure": "^1.0.3",
+    "express": "^4.18.2",
     "http": "^0.0.1-security",
     "mathematics": "^0.0.4",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.0",
     "node": "^18.13.0"
   }
 }
